@@ -482,6 +482,24 @@ header h2 {
   width: 940px;
   margin: 0 auto;
 }
+.title a{
+  color: #FFFFFF;
+  text-align: center;
+  display: block;
+  font-size: 23px;
+}
+.title h1{
+  width: 100%;
+  text-align: center;
+}
+.gitimg{
+  background-image: url("../images/github.svg");
+  background-size: contain;
+  background-repeat-x: no-repeat;
+}
+.gitimg a{
+  margin-left: 26px;
+}
 
 #content-wrapper {
   padding-top: 30px;
