@@ -500,6 +500,12 @@ header h2 {
 .gitimg a{
   margin-left: 26px;
 }
+.inner img{
+  max-width: 3% !important;
+  float: right;
+  clear: both;
+  margin-right: 380px;
+}
 
 #content-wrapper {
   padding-top: 30px;
